@@ -1,6 +1,6 @@
 // One place for the things that appear on every page and change rarely.
 
-export const SITE_URL = "https://themarketingagent.com";
+export const SITE_URL = "https://themarketingagent.ai";
 export const SITE_NAME = "The Marketing Agent";
 
 /** Self-serve. The questionnaire and the checkout both run on ApolloClaw, so every
