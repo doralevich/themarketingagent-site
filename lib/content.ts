@@ -45,10 +45,10 @@ export const CAPABILITIES = [
 
 export const PROCESS = [
   {
-    phase: "Day 1",
+    phase: "15 min",
     num: "01",
-    title: "We Learn the Brand, Not Just You",
-    body: "Who you are talking to and what they already believe, how the brand sounds, and the words and claims it never uses. Then the practical rules: which channels matter, who approves, and whether it may publish at all.",
+    title: "You Tell It the Brand",
+    body: "Who you are talking to and what they already believe, how the brand sounds, and the words and claims it keeps away from. Then the practical rules: which channels matter, who approves, and whether it may publish at all. That is the questionnaire, and your agent is built from it and running in about fifteen minutes.",
   },
   {
     phase: "Week 1",
@@ -136,7 +136,7 @@ export const FAQS = [
   },
   {
     q: "How long does setup take?",
-    a: "Most teams are live within two weeks. We configure it on your audience, what they already believe, your brand voice, your banned words, your channels and your approval flow.",
+    a: "About fifteen minutes. The questionnaire is the configuration: your audience, what they already believe, your brand voice, your banned words, your channels and your approval flow. Your agent is built from it and running as soon as you connect your channels. Hands-on onboarding and 30 days of training are available as an add-on, and come with every custom deployment.",
   },
   {
     q: "Does it replace a marketer?",
